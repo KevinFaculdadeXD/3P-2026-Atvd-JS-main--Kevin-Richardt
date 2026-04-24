@@ -1,0 +1,1 @@
+const tituloFodaaa = document.querySelector('#tituloFodaaa')
